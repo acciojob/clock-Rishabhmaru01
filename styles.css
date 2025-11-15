@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: #111;
+            color: #00ffea;
+            font-size: 2rem;
+        }
+        #timer {
+            padding: 20px 40px;
+            border: 2px solid #00ffea;
+            border-radius: 10px;
+            background: #222;
+        }
